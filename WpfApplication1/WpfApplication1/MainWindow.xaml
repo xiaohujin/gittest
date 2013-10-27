@@ -5,6 +5,5 @@
     <Grid>
         <Button Content="Button" Height="23" HorizontalAlignment="Left" Margin="387,138,0,0" Name="button1" VerticalAlignment="Top" Width="75" />
         <Label Content="Label" Height="28" HorizontalAlignment="Left" Margin="218,61,0,0" Name="label1" VerticalAlignment="Top" />
-        <CheckBox Content="CheckBox" Height="16" HorizontalAlignment="Left" Margin="170,164,0,0" Name="checkBox1" VerticalAlignment="Top" />
     </Grid>
 </Window>
